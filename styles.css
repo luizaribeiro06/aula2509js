@@ -1,0 +1,23 @@
+.btn{
+margin-top: 15px;
+background-color: azure;
+color: #000a00;
+padding: 8px 12px 8px 12px;
+border-radius: 8px;
+}
+
+.btn:hover{
+    background-color: #000a00;
+    color: azure
+}
+
+.input_cxa{
+    border-radius: 8px;
+}
+
+.section1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px
+    
+}
